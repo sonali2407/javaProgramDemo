@@ -77,7 +77,7 @@ public void toyInfo()
 System.out.println( "ToyPlane: Moveable and flyable toy plane- Price:"+price+" Color: "+color);
 }
 }
-class DemoISP {
+class JavaISPDemo {
 public static void main(String[] args)
 {
 ToyHouse h1=new ToyHouse();
